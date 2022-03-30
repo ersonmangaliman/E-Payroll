@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Matt\Desktop\Payroll\|C:\Users\Matt\Desktop\EMS Payroll\|C:\Users\Matt\Desktop\EMS Project\|C:\Users\Matt\Desktop\EMS\|EMS Payroll\</PublishUrlHistory>
+    <InstallUrlHistory>https://foxlearn.com/</InstallUrlHistory>
+    <SupportUrlHistory>https://foxlearn.com/</SupportUrlHistory>
+    <UpdateUrlHistory>https://foxlearn.com/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>C:\Users\Matt\Desktop\Payroll</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+</Project>
